@@ -7,7 +7,7 @@
 
 - 👯 I’m always looking forward to **collaborate on ML & Deep Learning Projects.**
 
-- 📝 I regularly write articles on [[Medium] <a href="https://medium.com/@pawar.vaidehi613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pawar vaidehi" height="30" width="40" /></a> ]
+- 📝 I regularly write articles on [Medium]<a href="https://medium.com/@pawar.vaidehi613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pawar vaidehi" height="30" width="40" /></a>
 
 - 💬 Ask me about **Machine Learning & Data Science related stuff**
 
