@@ -7,7 +7,7 @@
 
 - 👯 I’m always looking forward to **collaborate on ML & Deep Learning Projects.**
 
-- 📝 I regularly write articles on [[Medium] (https://medium.com/@pawar.vaidehi613)]
+- 📝 I regularly write articles on [![Medium] (https://medium.com/@pawar.vaidehi613)]
 
 - 💬 Ask me about **Machine Learning & Data Science related stuff**
 
