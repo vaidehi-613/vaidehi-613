@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Pawar</h1>
-<h3 align="center">I'm a computer engineering student. I'm a ML enthusiast who is always eager to collaborate with like-minded individuals to further explore the possibilities of machine learning.</h3>
+<h3 align="center">🚀 Passionate about Machine Learning & Data Science 🚀</h3>
 
-- 👩‍🎓 At the moment, **I'm a Junior Year CSE student at PCCOER and Social Media head of the GFG student chapter.**
+- 👩‍🎓 At the moment, I'm pursuing Bachelors of Engineering in **Computer Science with minor in Data Science**.
+  
+- 👩🏻‍💻 I'm currently working on **Wildlife Conservation and Analysis using Machine Learning**
 
-- 👯 I’m looking to **collaborate on ML & Deep Learning Projects.**
+- 👯 I’m always looking forward to **collaborate on ML & Deep Learning Projects.**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
