@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Pawar</h1>
 <h3 align="center">🚀 Passionate about Machine Learning & Data Science 🚀</h3>
 
-- 👩‍🎓 At the moment, I'm pursuing Bachelors of Engineering in **Computer Science with minor in Data Science**.
+- 👩‍🎓 At the moment, I'm pursuing **Master's Science in of Computer Science**.
   
-- 👩🏻‍💻 I'm currently working on **Wildlife Conservation and Analysis using Machine Learning**
+- 👩🏻‍💻 I'm currently working on **Database Specific Chatbot**
 
 - 👯 I’m always looking forward to **collaborate on ML & Deep Learning Projects.**
 
