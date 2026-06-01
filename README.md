@@ -16,7 +16,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 M.S. Computer Science @ **San Diego State University** (GPA: 3.86, May 2026)
+- 🎓 M.S. Computer Science @ **San Diego State University** (GPA: 3.89, May 2026)
 - 🔍 Actively seeking **SWE / ML Engineer / GenAI** roles — open to H1B sponsorship
 - 📄 **2× IEEE-indexed published papers** in Computer Vision & Deep Learning
 - 🧑‍🏫 Graduate **Teaching Assistant** (ML) & **Research Assistant** (Real Estate AI)
